@@ -3,6 +3,18 @@
     <channel>
         <title>Claude Usage</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Thu, 09 Jul 2026 16:10:52 +0500</pubDate>
+            <sparkle:version>2.0.1</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/dsh-ai/claude-widget-releases/main/ClaudeUsage-2.0.1.zip" length="1139404" type="application/octet-stream" sparkle:edSignature="lVmHsb668x0n6nzDmSgcXyGJEGFPz1BheykT7M0R24karNYMjf+kSAYCRCHNFXietiHMygHmu0B8ycX1OwPdBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dsh-ai/claude-widget-releases/main/Claude%20Usage2.0.1-2.0.0.delta" sparkle:deltaFrom="2.0.0" length="774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S2qIWRdUz8/LTAV7UaNvb1G71Im+6/xCBUBcr01j9eT4qw/3BC8FcAhU1KgQl3PkPjZZ2LOm3ErOtwx0z4mbAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Thu, 09 Jul 2026 16:10:17 +0500</pubDate>
             <sparkle:version>2.0.0</sparkle:version>
