@@ -3,6 +3,18 @@
     <channel>
         <title>Wane</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sat, 18 Jul 2026 23:11:20 +0200</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/dsh-ai/claude-widget-releases/main/Wane-1.1.0.zip" length="1169950" type="application/octet-stream" sparkle:edSignature="rFEXWzD578AaujZArOHBQc8czUGTdpe5PIL4RV1GWfpgonSokcZbB2aVTN6yWgEfPOyBHDj+JYMDN+uYEvP5Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dsh-ai/claude-widget-releases/main/Wane1.1.0-1.0.0.delta" sparkle:deltaFrom="1.0.0" length="49998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WAy/t9wXBhcApkte7VZIrAwWrQ8Y4pSNgJTPKdqEvmVcN6WmqkuRrQkFthxRh+Ne2WIyvpyBXEk1tSExq3BcAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 16 Jul 2026 17:48:25 +0500</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
